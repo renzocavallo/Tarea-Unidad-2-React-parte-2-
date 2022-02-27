@@ -1,0 +1,18 @@
+.holderNovedades{
+    font-family: 'Lora', serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+.novedades h3,h4{
+    font-size:small;
+}
+
+.novedades p{
+    font-size: small;
+}
+
+h2{
+    color: #253439;
+    font-weight: 500;
+    margin: 0 0 1em;
+}
